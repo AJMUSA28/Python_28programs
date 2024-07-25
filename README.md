@@ -5,3 +5,4 @@ Simple_programs
 2. [Main code]
 
 All markdown can be found via [link]
+You can contact me via [email](mailto:ajejemusaboyi@gmail.com)
